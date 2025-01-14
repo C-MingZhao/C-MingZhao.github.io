@@ -1,0 +1,9 @@
+---
+title: "Reflection on the Use of GenAI"
+---
+
+Using GenAI tools, particularly ChatGPT, has been a transformative experience for me. These tools have helped contextualize my thoughts by turning short-form ideas into well-structured and professional expressions. This has been invaluable, especially when I need assistance with rewriting or refining my content.
+
+One of the key benefits of using GenAI is in learning and problem-solving, particularly in coding. When faced with errors or challenges, ChatGPT provides advice on potential fixes and explanations for errors. This guidance has been instrumental in improving my technical understanding and debugging skills.
+
+However, the tool is not without its limitations. At times, it repeats the same solutions without addressing the issue fully. When this happens, I resort to independent research and problem-solving. Despite this, the overall experience has been highly beneficial, offering a solid foundation for tackling complex tasks and learning new concepts.

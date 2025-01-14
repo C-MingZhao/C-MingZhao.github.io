@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m Chia Ming Zhao, a passionate learner currently pursuing a degree in Applied Computing, specializing in FinTech, at the Singapore Institute of Technology.\nPreviously, I graduated from Temasek Polytechnic with a diploma in Big Data Management and Governance, where I honed my skills in data analytics and governance practices.\nThis website is a space where I share my journey, projects, and experiences. Stay tuned to explore more about me!\n\n\n\nProfile Picture\n\n\n\n\n\nFeel free to connect with me on LinkedIn to learn more about my professional journey and interests."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,75 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "FYP Project.html",
+    "href": "FYP Project.html",
+    "title": "Final Year Project: Data Visualizations for KPI Management",
+    "section": "",
+    "text": "During my time at Temasek Polytechnic, I worked on a data visualizations project for my internship company, focusing on their Key Performance Indicators (KPIs). This project was pivotal in improving the efficiency of their reporting and decision-making processes."
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "In my free time, I enjoy a variety of hobbies that help me relax and recharge. Here are some of the things I love to do:"
+  },
+  {
+    "objectID": "Hobbies.html#playing-games",
+    "href": "Hobbies.html#playing-games",
+    "title": "My Hobbies",
+    "section": "1. Playing Games",
+    "text": "1. Playing Games\nGaming is my go-to activity for relieving stress. I enjoy playing both competitive and casual games, including: - Valorant: A fast-paced tactical shooter that keeps me on my toes. - Rainbow Six Siege: A strategic and team-focused experience. - Minecraft: A childhood favorite where I can unwind and get creative.\nGaming allows me to connect with friends and hone my critical thinking and reflexes."
+  },
+  {
+    "objectID": "Hobbies.html#watching-movies",
+    "href": "Hobbies.html#watching-movies",
+    "title": "My Hobbies",
+    "section": "2. Watching Movies",
+    "text": "2. Watching Movies\nI’m a big movie enthusiast, particularly a fan of Marvel films. Some of my favorite movies include: - Avengers: The epic team-up of Marvel superheroes. - Black Panther: A groundbreaking film with an incredible story. - Spider-Man: A timeless classic with thrilling adventures.\nMarvel movies inspire me with their storytelling and unforgettable characters."
+  },
+  {
+    "objectID": "Hobbies.html#watching-anime",
+    "href": "Hobbies.html#watching-anime",
+    "title": "My Hobbies",
+    "section": "3. Watching Anime",
+    "text": "3. Watching Anime\nAs a dedicated anime fan, I spend a lot of time exploring this amazing genre. My all-time favorite anime is Solo Leveling, a thrilling series about a world of individuals with special abilities. The protagonist, initially the weakest, embarks on a journey of growth to become the strongest character. The captivating story and stunning visuals make it unforgettable.\nAnime brings me joy and often teaches me valuable lessons through its storytelling.\n\nHere is the Trailer for my favourite Anime Solo Leveling."
+  },
+  {
+    "objectID": "FYP Project.html#key-objectives",
+    "href": "FYP Project.html#key-objectives",
+    "title": "Final Year Project: Data Visualizations for KPI Management",
+    "section": "Key Objectives:",
+    "text": "Key Objectives:\n\nDevelop an intuitive and interactive dashboard to visualize company KPIs.\nAutomate the data pipeline to minimize the need for manual data cleaning and preparation."
+  },
+  {
+    "objectID": "FYP Project.html#my-contributions",
+    "href": "FYP Project.html#my-contributions",
+    "title": "Final Year Project: Data Visualizations for KPI Management",
+    "section": "My Contributions:",
+    "text": "My Contributions:\nUsing Tableau, I created multiple graphs and visualizations, such as: - Trend Analysis: To monitor performance over time. - Pie Charts: To display resource allocation across departments. - Bar Graphs: For comparative analysis of sales performance.\nIn addition to visualization, I streamlined the data preparation process, ensuring the dashboards could automatically update with minimal intervention. This automation saved the company significant time and effort."
+  },
+  {
+    "objectID": "FYP Project.html#learning-outcomes",
+    "href": "FYP Project.html#learning-outcomes",
+    "title": "Final Year Project: Data Visualizations for KPI Management",
+    "section": "Learning Outcomes:",
+    "text": "Learning Outcomes:\nThis project enhanced my understanding of: - How companies use KPIs to manage and evaluate their projects. - The importance of efficient data cleaning and preparation in analytics. - Advanced techniques in data visualization and dashboard design.\nOverall, the experience significantly improved my technical skills and provided practical insights into data-driven decision-making in a corporate environment."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Using GenAI tools, particularly ChatGPT, has been a transformative experience for me. These tools have helped contextualize my thoughts by turning short-form ideas into well-structured and professional expressions. This has been invaluable, especially when I need assistance with rewriting or refining my content.\nOne of the key benefits of using GenAI is in learning and problem-solving, particularly in coding. When faced with errors or challenges, ChatGPT provides advice on potential fixes and explanations for errors. This guidance has been instrumental in improving my technical understanding and debugging skills.\nHowever, the tool is not without its limitations. At times, it repeats the same solutions without addressing the issue fully. When this happens, I resort to independent research and problem-solving. Despite this, the overall experience has been highly beneficial, offering a solid foundation for tackling complex tasks and learning new concepts."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Feel free to connect with me on LinkedIn to learn more about my professional journey and interests."
   }
 ]

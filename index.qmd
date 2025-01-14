@@ -1,11 +1,19 @@
 ---
-title: "temp_website"
+title: "Welcome to My Website"
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I'm **Chia Ming Zhao**, a passionate learner currently pursuing a degree in **Applied Computing**, specializing in **FinTech**, at the **Singapore Institute of Technology**. 
 
-```{r}
-1 + 1
-```
+Previously, I graduated from **Temasek Polytechnic** with a diploma in **Big Data Management and Governance**, where I honed my skills in data analytics and governance practices. 
+
+This website is a space where I share my journey, projects, and experiences. Stay tuned to explore more about me!
+
+![Profile Picture](./img/profile.jpg)
+
+---
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/iammingzhao) to learn more about my professional journey and interests.

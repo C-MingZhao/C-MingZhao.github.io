@@ -1,0 +1,33 @@
+---
+title: "My Hobbies"
+---
+
+In my free time, I enjoy a variety of hobbies that help me relax and recharge. Here are some of the things I love to do:
+
+## 1. Playing Games
+Gaming is my go-to activity for relieving stress. I enjoy playing both competitive and casual games, including:
+- **Valorant**: A fast-paced tactical shooter that keeps me on my toes.
+- **Rainbow Six Siege**: A strategic and team-focused experience.
+- **Minecraft**: A childhood favorite where I can unwind and get creative.
+
+Gaming allows me to connect with friends and hone my critical thinking and reflexes.
+
+## 2. Watching Movies
+I’m a big movie enthusiast, particularly a fan of **Marvel films**. Some of my favorite movies include:
+- **Avengers**: The epic team-up of Marvel superheroes.
+- **Black Panther**: A groundbreaking film with an incredible story.
+- **Spider-Man**: A timeless classic with thrilling adventures.
+
+Marvel movies inspire me with their storytelling and unforgettable characters.
+
+## 3. Watching Anime
+As a dedicated anime fan, I spend a lot of time exploring this amazing genre. My all-time favorite anime is **Solo Leveling**, a thrilling series about a world of individuals with special abilities. The protagonist, initially the weakest, embarks on a journey of growth to become the strongest character. The captivating story and stunning visuals make it unforgettable.
+
+Anime brings me joy and often teaches me valuable lessons through its storytelling.
+
+---
+Here is the Trailer for my favourite Anime **Solo Leveling**.
+
+<div style="text-align: center; margin-top: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/byJ7pxxhaDY?si=imjEoALIawplfLfx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

@@ -1,0 +1,25 @@
+---
+title: "Final Year Project: Data Visualizations for KPI Management"
+---
+
+During my time at **Temasek Polytechnic**, I worked on a **data visualizations project** for my internship company, focusing on their **Key Performance Indicators (KPIs)**. This project was pivotal in improving the efficiency of their reporting and decision-making processes.
+
+## Key Objectives:
+- Develop an intuitive and interactive dashboard to visualize company KPIs.
+- Automate the data pipeline to minimize the need for manual data cleaning and preparation.
+
+## My Contributions:
+Using **Tableau**, I created multiple graphs and visualizations, such as:
+- **Trend Analysis**: To monitor performance over time.
+- **Pie Charts**: To display resource allocation across departments.
+- **Bar Graphs**: For comparative analysis of sales performance.
+
+In addition to visualization, I streamlined the data preparation process, ensuring the dashboards could automatically update with minimal intervention. This automation saved the company significant time and effort.
+
+## Learning Outcomes:
+This project enhanced my understanding of:
+- How companies use KPIs to manage and evaluate their projects.
+- The importance of efficient data cleaning and preparation in analytics.
+- Advanced techniques in **data visualization** and **dashboard design**.
+
+Overall, the experience significantly improved my technical skills and provided practical insights into data-driven decision-making in a corporate environment.
